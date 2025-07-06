@@ -8,7 +8,7 @@ It includes these features:
    - A hidden (honeypot) field that only bots would fill, and if filled causes an error
    - Submission timing - entering fields at non-human speeds will cause an error
    - Non-standard character filtering: Submissions with unsupported or foreign-language characters will cause an error. Not for everyone - consider your target audience.
-   - URL filtering: URL entry is not allowed and will cause an error.
+   - URL filtering: URL entry (spammy links) is not allowed and will cause an error.
 3. The form sends a copy of the form's contents to the sender, provided a valid email is entered.
 4. Email format validation
 5. Design and formatting (I tried to leave out all design additives to keep the page ultralight, but it's way too ugly without some of my favorites, IMO.):
