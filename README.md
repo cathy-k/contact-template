@@ -20,7 +20,7 @@ It includes these features:
 #### The main task of users of this form template: ####
 - Fill in all required credentials in the `/assets/inc/config.php` file.
 - Install Composer and the `google/apiclient:^2.0` package and dependencies
-- <em>Instructions are below, but further information may be needed for those new to the concepts mentioned. </em>
+- <em>General instructions are below, but further information may be needed for those new to the concepts mentioned. </em>
 
 ## Google Cloud, GMail API and OAuth2 Setup Checklist* ##
 
