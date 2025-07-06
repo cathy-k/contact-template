@@ -1,4 +1,16 @@
-This gist contains the files needed to create a working PHP web contact form. 
+This template contains files needed to create a working PHP web contact form for Gmail API, and OAuth2 authorization. 
+It includes these features:
+1. Google Recaptcha
+2. A list of spam deterrents. Some users may choose to delete some of these filters:
+   - A hidden (honeypot) field that only bots would fill, and filling it causes an error
+   - Submission timing - entering fields faster than a human will cause an error
+   - Non-standard character filtering: Submissions with unsupported or foreign-language characters will cause an error. Not for everyone - consider your target audience.
+   - URL filtering: URL entry is not allowed and will cause an error.
+3. The form sends a copy of the form's contents to the sender, provided a valid email is entered.
+4. Email format validation
+5. Some Google fonts are loaded.
+6. Some Bootstrap 5.3.6 is loaded and some Bootstrap formatting is used.
+7. 
 
 ## Google Cloud, GMail API and OAuth2 Setup Checklist* ##
 
