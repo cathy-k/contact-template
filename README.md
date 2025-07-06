@@ -11,7 +11,7 @@ It includes these features:
    - URL filtering: URL entry (spammy links) is not allowed and will cause an error.
 3. The form sends a copy of the form's contents to the sender, provided a valid email is entered.
 4. Email format validation
-5. Design and formatting (I tried to leave out all design additives to keep the page ultralight, but it's way too ugly without some of my favorites, IMO.):
+5. Design and formatting (I tried to leave out all design additives to keep the page ultralight, but it was just too ugly, IMO.):
     - Some Google fonts are loaded.
     - Bootstrap 5.3.6 is loaded, and some Bootstrap formatting is used.
     - AOS (Animate on Scroll) is loaded and provides some fade-in animations.
