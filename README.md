@@ -4,7 +4,7 @@ This template contains files needed to create a working PHP web contact form for
 
 It includes these features:
 1. Google Recaptcha
-2. A list of spam deterrents. Some users may choose not to use some of these:
+2. A list of spam deterrents. Some users may choose to delete some of these:
    - A hidden (honeypot) field that only bots would fill, and filling it causes an error
    - Submission timing - entering fields at non-human speeds will cause an error
    - Non-standard character filtering: Submissions with unsupported or foreign-language characters will cause an error. Not for everyone - consider your target audience.
