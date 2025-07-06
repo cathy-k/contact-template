@@ -2,7 +2,7 @@
 
 This template contains files needed to create a working PHP web contact form for Gmail API, and OAuth2 authorization. 
 
-Disclaimer: I'm not an expert on the process presented, but I believe this finished form is generally efficient and has definitely worked for me.
+**Disclaimer: I'm not an expert on the process presented, but I believe this finished form is generally efficient, and it has worked well for me. General instructions are below, but further information may be needed for those new to the concepts mentioned.**
 
 It includes these features:
 1. Google Recaptcha
@@ -22,7 +22,6 @@ It includes these features:
 #### The main task of users of this form template: ####
 - Fill in all required credentials in the `/assets/inc/config.php` file.
 - Install Composer and the `google/apiclient:^2.0` package and dependencies
-- <em>General instructions are below, but further information may be needed for those new to the concepts mentioned. </em>
 
 ## Google Cloud, GMail API and OAuth2 Setup Checklist* ##
 
