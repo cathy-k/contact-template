@@ -19,7 +19,7 @@ It includes these features:
   
 #### The main task of users of this form template: ####
 - Fill in all required credentials in the `/assets/inc/config.php` file.
-- Install Composer and the google/apiclient:^2.0 package and dependencies
+- Install Composer and the `google/apiclient:^2.0` package and dependencies
 - <em>Instructions are below, but further information may be required for those new to Composer, Google Cloud, etc.</em>
 
 ## Google Cloud, GMail API and OAuth2 Setup Checklist* ##
