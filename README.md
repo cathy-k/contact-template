@@ -71,7 +71,6 @@ It includes these features:
 7. **Deploy and Test** 
   - NOTE: COMPOSER PACKAGES NEED TO BE INSTALLED BEFORE THIS - INSTRUCTIONS BELOW IF NECESSARY
   - Upload the files to your server 
-  - Ensure PHP can write to `form_debug.txt` 
   - Submit a test message (sending to your own email address is a good test)
   - Check Gmail **Sent** folder to confirm delivery </pre>
 
