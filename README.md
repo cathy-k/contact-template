@@ -123,7 +123,7 @@ VENDOR FOLDER IS GENERATED FROM COMPOSER INSTALL
 ├── composer.json
 ├── composer.lock
 ├── contact.php
-├── content-abut.php
+├── content-about.php
 ├── content-home.php
 ├── error.php
 ├── favicon.ico
